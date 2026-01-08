@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     images: [
-      "https://picsum.photos/800/500?random=11",
+      "/1.png",
       "https://picsum.photos/800/500?random=12",
       "https://picsum.photos/800/500?random=13",
     ],
@@ -17,7 +17,7 @@ export default [
   {
     id: 2,
     images: [
-      "https://picsum.photos/800/500?random=21",
+      "/2.png",
       "https://picsum.photos/800/500?random=22",
       "https://picsum.photos/800/500?random=23",
     ],
@@ -32,7 +32,7 @@ export default [
   {
     id: 3,
     images: [
-      "https://picsum.photos/800/500?random=31",
+      "/3.png",
       "https://picsum.photos/800/500?random=32",
     ],
     type: "Multi-family home For Sale",
@@ -46,7 +46,7 @@ export default [
   {
     id: 4,
     images: [
-      "https://picsum.photos/800/500?random=41",
+      "/4.png",
       "https://picsum.photos/800/500?random=42",
     ],
     type: "House For Sale",
